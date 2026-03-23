@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Jade! 👋 
 
-<!--
-**jadetwallace/jadetwallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Analyst | GRC Specialist | IT Professional
+I’m a CySA+ and Security+ certified professional with a background in Computer Science and a passion for safeguarding data. I specialize in bridging the gap between technical defense and mission-aligned security solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Toolkit
+* **Security Ops:** Splunk (SIEM), Nessus (Vulnerability Mgmt), Wireshark, Incident Response.
+* **Infrastructure:** Firewalls, IDS/IPS, Active Directory, Windows/Linux Hardening.
+* **Compliance:** NIST CSF, HIPAA, PCI-DSS, Technical SOP Documentation.
+* **Coding/Tools:** Python, SQL, Bash, Kali Linux.
+
+### 📈 Current Mission
+* 🎓 Graduating from **Per Scholas Cybersecurity Program** (March 31, 2026).
+* 🎯 Preparing for the **Splunk Core Certified User** exam.
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/jadetwallace](https://linkedin.com/in/jadetwallace)
+* **Location:** Nutley, NJ / Greater NYC Area
