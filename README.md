@@ -20,7 +20,7 @@ I’m a CySA+ and Security+ certified professional with a background in Computer
 ---
 
 * ### 📈 Current Status
-* 🚀 **Project Lead:** Currently managing a 6-man Enterprise SOC Simulation.
+* 🚀 **Project Lead:** Currently managing a 7-person Enterprise SOC Simulation.
 * 📁 **Case Study:** [M365 Incident Resolution & Root Cause Analysis](./link-pending)
 * ✅ **Graduate:** Per Scholas Cybersecurity Program (March 2026)
 * ✅ **Graduate:** Rutgers University Cybersecurity Program (August 2024)
